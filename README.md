@@ -52,7 +52,7 @@ I am a MERN Stack Developer with a strong background in Product Design and User 
 ### Tools & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva,photoshop,jira,clickup" />
 </p>
 
 ---
