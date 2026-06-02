@@ -131,25 +131,34 @@ AI-driven workflow management platform designed to digitize factory operations a
 </p>
 
 ---
+---
 
 ## Connect
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sudhakar-j-9106282ab/">
+<a href="https://www.linkedin.com/in/sudhakar-j-9106282ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-pi-three-beat9eritt.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://dribbble.com/sudhakarjk08" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-Design_Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/sudhakaruiux" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-Design_Showcase-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
 <a href="mailto:sudhakar.j2023cse@sece.ac.in">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://dribbble.com/YOUR_DRIBBBLE_USERNAME](https://dribbble.com/sudhakarjk08)">
-  <img src="https://img.shields.io/badge/Dribbble-Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-</a>
-
-<a href="[https://www.behance.net/YOUR_BEHANCE_USERNAME](https://www.behance.net/sudhakaruiux)">
-  <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+<a href="https://github.com/SUDHAKARJ08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
