@@ -127,7 +127,7 @@ AI-driven workflow management platform designed to digitize factory operations a
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://portfolio-pi-three-beat9eritt.vercel.app/&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -144,11 +144,11 @@ AI-driven workflow management platform designed to digitize factory operations a
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://dribbble.com/YOUR_DRIBBBLE_USERNAME">
+<a href="[https://dribbble.com/YOUR_DRIBBBLE_USERNAME](https://dribbble.com/sudhakarjk08)">
   <img src="https://img.shields.io/badge/Dribbble-Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
 </a>
 
-<a href="https://www.behance.net/YOUR_BEHANCE_USERNAME">
+<a href="[https://www.behance.net/YOUR_BEHANCE_USERNAME](https://www.behance.net/sudhakaruiux)">
   <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
