@@ -8,9 +8,9 @@
   Designing intuitive experiences and building scalable web applications that solve real-world business problems.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
